@@ -1,3 +1,4 @@
 初始化：git init
 添加到暂存区：git add "文件名"
 添加到本地仓库：git commit -m "说明"
+更新
