@@ -1,0 +1,4 @@
+初始化 ：git init
+查看状态：git status
+添加到缓存区：git add "文件名"
+添加到仓库：git commit -m "描述（这文件是干什么的）"
